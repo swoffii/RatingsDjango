@@ -1,0 +1,2 @@
+# RatingsDjango
+IMDB Clone Django
